@@ -1,0 +1,24 @@
+{
+  "db": {
+    "host": "localhost",
+    "port": 27017,
+    "url": "",
+    "database": "loopB",
+    "password": "",
+    "name": "db",
+    "user": "",
+    "useNewUrlParser": true,
+    "connector": "mongodb"
+  },
+  "mongoauth": {
+    "host": "localhost",
+    "port": 0,
+    "url": "",
+    "database": "auth",
+    "password": "",
+    "name": "mongoauth",
+    "user": "",
+    "useNewUrlParser": true,
+    "connector": "mongodb"
+  }
+}
